@@ -1,0 +1,5 @@
+C:\Users\Thinkpad\source\repos\Video klub\Video klub\bin\Debug\Video klub.exe.config
+C:\Users\Thinkpad\source\repos\Video klub\Video klub\bin\Debug\Video klub.exe
+C:\Users\Thinkpad\source\repos\Video klub\Video klub\bin\Debug\Video klub.pdb
+C:\Users\Thinkpad\source\repos\Video klub\Video klub\obj\Debug\Video klub.exe
+C:\Users\Thinkpad\source\repos\Video klub\Video klub\obj\Debug\Video klub.pdb
